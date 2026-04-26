@@ -20,6 +20,12 @@ This project demonstrates how to containerize a simple Flask web application usi
    http://localhost:5000
 
 ## Screenshots
-- Docker image build
-- Running container
-- docker ps output
+
+### Docker Build
+![Build](build.png)
+
+### Running Container
+![Run](run.png)
+
+### Docker PS Output
+![Docker PS](docker-ps.png)
