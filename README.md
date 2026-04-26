@@ -29,3 +29,6 @@ This project demonstrates how to containerize a simple Flask web application usi
 
 ### Docker PS Output
 ![Docker PS](docker-ps.png)
+
+### Output
+![Docker PS](output.png)
